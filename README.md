@@ -1,2 +1,2 @@
 # useq
-Pipeline to identify unique genomic regions
+Command pipeline to identify unique genomic regions
